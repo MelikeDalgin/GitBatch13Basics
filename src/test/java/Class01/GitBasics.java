@@ -5,5 +5,8 @@ public class GitBasics {
         // write down a code that checks a temperature from a website and then
         // prints out that is it a beautiful day or not
         System.out.println("today is a shitty day");
+        System.out.println("skm boyle isi");
+        System.out.println("skm boyle isi");
+
     }
 }
